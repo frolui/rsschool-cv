@@ -42,3 +42,4 @@ Republican Unitary Enterprise “Belgosles” – *1.1 year* (actually work) –
 **English level - B1.**\
 High education - 2015 - 2020 Belarusian State University Faculty of Geography specialty *__"Aerospacecartography"__*
 [Online JS and React Native course](https://www.udemy.com/share/10208oAEESeFdWRn0D/)
+
