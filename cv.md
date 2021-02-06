@@ -30,3 +30,15 @@ function mainQuestion(question) {
 }
 
 ```
+
+## My experience
+### Work experience:
+OneSoil *1.2 year* - **GIS Specialict**\
+Republican Unitary Enterprise “Belgosles” – *1.1 year* (actually work) – **Remote sensing engineer**
+### Work experience with using js:
+[Online JS and React Native course](https://www.udemy.com/share/10208oAEESeFdWRn0D/)
+
+## Education:
+**English level - B1.**\
+High education - 2015 - 2020 Belarusian State University Faculty of Geography specialty *__"Aerospacecartography"__*
+[Online JS and React Native course](https://www.udemy.com/share/10208oAEESeFdWRn0D/)
