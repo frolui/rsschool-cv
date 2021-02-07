@@ -9,10 +9,13 @@ body{
     display: inline; /* Отображать как строчный элемент */
     margin-right: 5px; /* Отступ слева */
     padding: 1% 10% 1% 10%; /* Поля вокруг текста */
+    font-family: 'Big Shoulders Display', cursive;
+    font-size: 200%;
 }
 .about_me{
     max-width: 60%;
     padding: 0% 0% 0% 6%;
+    font-family: 'Roboto', sans-serif;
 }
 .tech__li {
     display: inline; /* Отображать как строчный элемент */
