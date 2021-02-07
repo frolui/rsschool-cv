@@ -5,20 +5,55 @@ body{
     background-position: 305% 35%;
     background-repeat: no-repeat;
 }
+.nav{
+    padding: 3% 0;
+}
 .nav__li {
     display: inline; /* Отображать как строчный элемент */
-    margin-right: 5px; /* Отступ слева */
-    padding: 1% 10% 1% 10%; /* Поля вокруг текста */
+    margin-right: 1%; /* Отступ слева */
+    padding: 1% 8% 1% 8%; /* Поля вокруг текста */
     font-family: 'Big Shoulders Display', cursive;
     font-size: 200%;
 }
-.about_me{
+.nav__link{
+    color: #000080;
+}
+.nav__link :visited {
+    color: #000080;
+}
+.section{
+    margin: auto;
+    padding: 1% 20% 0% 0%;
     max-width: 60%;
-    padding: 0% 0% 0% 6%;
+}
+.about_me{    
+    /* padding: 0% 0% 0% 6%; */
+    width: inherit;
     font-family: 'Roboto', sans-serif;
 }
 .tech__li {
     display: inline; /* Отображать как строчный элемент */
-    margin-right: 5px; /* Отступ слева */
+    margin-right: 1%; /* Отступ слева */
     padding: 1% 4% 1% 4%; /* Поля вокруг текста */
+    font-family: 'Roboto', sans-serif;
+}
+.experience{
+    padding: 0; /* Убираем поля */
+    margin-left: 0;
+}
+.experience__li, .edu__li{
+    list-style-type: none;
+    width: inherit;
+    font-family: 'Roboto', sans-serif;    
+}
+.edu__ul{
+    padding: 0;
+    margin-left: 0;
+}
+.text__link{
+    text-decoration: none;
+    color:#000080;
+}
+.text__link :visited{
+    color:#000080;
 }
