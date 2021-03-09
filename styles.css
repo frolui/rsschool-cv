@@ -1,0 +1,63 @@
+body{
+    padding: 0;    
+    background-image: url("./assets/images/2.jpg");
+    background-size: 80%;    
+    background-position: 305% 35%;
+    background-repeat: no-repeat;
+}
+.nav{
+    padding: 3% 0;
+}
+.nav__ul{
+    padding: 0;
+    margin: 0;    
+    display: flex;
+    width: 80%;
+    justify-content: space-around;
+}
+.nav__li {
+    display: inline;
+    width: 30%;
+    text-align: center; 
+    font-family: 'Big Shoulders Display', cursive;
+    font-size: 200%;
+}
+.nav__link, .nav__link :visited {
+    color: #000080;
+}
+.section{
+    margin: auto;
+    padding: 1% 20% 0% 0%;
+    max-width: 60%;
+}
+h2, h3{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.17em;
+}
+.about_me{    
+    width: inherit;    
+    font-family: 'Roboto', sans-serif;
+}
+.tech__li {
+    display: inline; 
+    margin-right: 1%; 
+    padding: 1% 4% 1% 4%; 
+    font-family: 'Roboto', sans-serif;
+}
+.experience{
+    padding: 0;
+    margin-left: 0;
+}
+.experience__li, .edu__li{
+    width: inherit;
+    font-family: 'Roboto', sans-serif;  
+    list-style-type: none;  
+}
+.edu__ul{
+    padding: 0;
+    margin-left: 0;
+}
+.text__link, .text__link :visited{
+    text-decoration: none;
+    color:#000080;
+}
